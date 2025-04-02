@@ -1,6 +1,6 @@
 {
-  "origins": [
-    "https://fomalhaut9918.github.io",
-    "http://localhost:4000"
-  ]
+    "origins": [
+        "https://fomalhaut9918.github.io",
+        "http://localhost"
+    ]
 }
